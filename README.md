@@ -60,7 +60,7 @@ and the client id of the client who was most profitable
 ~~~
 Answer:
 
-
+The answer you will find in the "Answers/sql" folder.
 ~~~
 
 
