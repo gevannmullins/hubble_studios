@@ -1,0 +1,5 @@
+{
+    "require": {
+        "chriskonnertz/string-calc": "^1.0"
+    }
+}
